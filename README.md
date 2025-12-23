@@ -26,8 +26,10 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
-```
+
 admin.html
+
+```
 <head>
   <meta charset="UTF-8" />
   <title>Our Team</title>
@@ -71,6 +73,7 @@ admin.html
 </body>
 ```
 contact.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,6 +116,7 @@ contact.html
 </html>
 ```
 index.html
+```
 <head>
   <meta charset="UTF-8" />
   <title>Restaurant - Home</title>
@@ -134,6 +138,7 @@ index.html
 </body>
 ```
 menu.html
+```
 <head>
   <meta charset="UTF-8" />
   <title>Menu - Restaurant</title>
@@ -153,8 +158,8 @@ menu.html
   <div class="menu-grid">
     <div class="menu-item"><img src="pizza.jpg" alt="Pizza"><p>Cheesy Pepperoni Pizza</p></div>
     <div class="menu-item"><img src="burger.jpg" alt="Burger"><p>Classic Beef Burger</p></div>
-    <div class="menu-item"><img src="cake.jpg" alt="Cake"><p>Chocolate Lava Cake</p></div>
-    <div class="menu-item"><img src="icecream.jpg" alt="Ice Cream"><p>Vanilla Ice Cream</p></div>
+    <div class="menu-item"><img src="" alt="Cake"><p>Chocolate Lava Cake</p></div>
+    <div class="menu-item"><img src="pro/pro/ice.jpg" alt="Ice Cream"><p>Vanilla Ice Cream</p></div>
     <div class="menu-item"><img src="noodels.jpg" alt="Noodles"><p>Spicy Asian Noodles</p></div>
   </div>
 </body>
